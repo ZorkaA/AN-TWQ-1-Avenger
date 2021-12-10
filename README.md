@@ -1,1 +1,3 @@
-# AN-TWQ-1-Avenger for Flightgear,  This is an old version that I recovered from the depths of the interweb.
+# AN-TWQ-1-Avenger for Flightgear
+
+Downloadthe .zip, rename folder to `AN-TWQ-1-Avenger`
